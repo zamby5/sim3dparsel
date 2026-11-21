@@ -1,0 +1,5 @@
+#dp3d{position:fixed;inset:0;z-index:5000;background:#0f1923}#d3Map{position:absolute;inset:0}
+#d3Bar{position:absolute;left:8px;right:8px;top:calc(env(safe-area-inset-top,0px) + 8px);z-index:2;display:flex;flex-wrap:wrap;gap:8px;align-items:center;background:rgba(10,21,32,.8);color:#fff;padding:8px 10px;border-radius:12px;font:600 11px 'Inter',sans-serif}
+#d3Bar label{display:flex;align-items:center;gap:6px}#d3Bar input{width:90px}
+.d3b{border:0;border-radius:14px;padding:6px 11px;background:#065F46;color:#fff;font:700 11px 'Inter',sans-serif}
+#d3Msg{flex-basis:100%;color:#FBBF24}
